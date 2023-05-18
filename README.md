@@ -1,4 +1,14 @@
 # LifeCycle
+## This project is a Shop List
+I Used the LocalStorage to save the itens
+
+In this project I:
+I understand how the component lifecycle works in Angular
+
+Know what lifecycle hooks are
+
+I understood how to implement each hooks and create the logic for each one of them
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
